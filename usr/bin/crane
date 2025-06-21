@@ -1,0 +1,5 @@
+#!/bin/bash
+python3 /usr/bin/crane.py "$@"
+chmod +x usr/bin/crane.py
+chmod +x usr/bin/crane #pray it works 
+pip install pygments pygame pillow numpy

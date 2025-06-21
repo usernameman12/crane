@@ -1,0 +1,4 @@
+pygments
+pygame
+pillow
+numpy
